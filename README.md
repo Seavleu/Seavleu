@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Seavleu/Seavleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Jenny Heang</h1>
 <h3 align="center">Interested in Frontend Dev, Rapidly involving myself in the AI field and working to become an AI Engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seavleu" alt="seavleu" /></a> </p>
 
 - 🔭 I’m currently learning [Generative AI Learning Path By Google Clouds](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources)
 
