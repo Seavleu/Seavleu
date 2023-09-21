@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jenny Heang</h1>
 <h3 align="center">Interested in Frontend Dev, Rapidly involving myself in the AI field and working to become an AI Engineer</h3>
 
-- 🔭 I’m currently learning [Generative AI Learning Path By Google Clouds](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources)
+- 🔭 I’m currently taking [Generative AI Learning Path By Google Clouds](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources)
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
