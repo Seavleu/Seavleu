@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jenny Heang</h1>
 <h3 align="center">Interested in Frontend Dev, Rapidly involving myself in the AI field and working to become an AI Engineer</h3>
 
-- ☺️ Resume [Open](https://drive.google.com/file/d/1GFNYqfx9PzOMzHktWp2H53nt7u1h7k8q/view?usp=sharing)
+- ☺️ Resume [Open]([https://drive.google.com/file/d/1GFNYqfx9PzOMzHktWp2H53nt7u1h7k8q/view?usp=sharing](https://drive.google.com/file/d/1jNw3ihf4NaVjAbdTiqa54-qSTlBcS-sp/view))
 
 - 🔭 I’m currently taking [Generative AI Learning Path By Google Clouds](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources)
 
