@@ -12,20 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jenny Heang</h1>
-<h3 align="center">Interested in Frontend Dev, Rapidly involving myself in the AI field and working to become an AI Engineer</h3>
+<h1 align="center">Share me your fav course✍️(◔◡◔)</h1>
+<h3 align="center">Interested in Frontend and apidly involving myself in the AI field and working to become an AI Engineer</h3>
 
-- ☺️ Resume [Open](https://drive.google.com/file/d/1jNw3ihf4NaVjAbdTiqa54-qSTlBcS-sp/view) (Last update: May 30th 2024)
-
-- 🔭 I’m currently taking [Generative AI Learning Path By Google Clouds](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources)
-
-- 🌱 I’m currently learning **TypeScript and Next.js**
-
-- 👯 I’m looking to collaborate on **Frontend and AI project**
-
-- 📝 I regularly write articles on [https://medium.com/@seavleuheang](https://medium.com/@seavleuheang)
-
-- 📫 How to reach me **seavleuheang@gmail.com**
+- ☺️ Resume [Open](https://drive.google.com/file/d/1jNw3ihf4NaVjAbdTiqa54-qSTlBcS-sp/view) (Last update: May 30th 2024) 
+- 🌱 I’m currently learning **DeepLearning (NLP, CV), React Native, and Next.js** 
+- 📝 Sometimes write on [https://medium.com/@seavleuheang](https://medium.com/@seavleuheang)
+- 📫 Email: **seavleuheang@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
