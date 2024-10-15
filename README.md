@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Share me your fav course✍️(◔◡◔)</h1>
 <h3 align="center">Interested in Frontend and apidly involving myself in the AI field and working to become an AI Engineer</h3>
 
-- ☺️ Resume [Open](https://drive.google.com/file/d/1jNw3ihf4NaVjAbdTiqa54-qSTlBcS-sp/view) (Last update: May 30th 2024) 
+- ☺️  [Resume](https://drive.google.com/file/d/1jNw3ihf4NaVjAbdTiqa54-qSTlBcS-sp/view) (Last update: May 30th 2024) 
 - 🌱 I’m currently learning **DeepLearning (NLP, CV), React Native, and Next.js** 
 - 📝 Sometimes write on [https://medium.com/@seavleuheang](https://medium.com/@seavleuheang)
 - 📫 Email: **seavleuheang@gmail.com**
