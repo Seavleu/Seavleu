@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **DeepLearning (NLP, CV), React Native, and Next.js** 
 - 📝 Sometimes write on [https://medium.com/@seavleuheang](https://medium.com/@seavleuheang)
 - 📫 Email: **seavleuheang@gmail.com**
+- ⚡ Fun fact: Mount-Biking is life🚵🏻 (I got bone fractured once, just once)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
