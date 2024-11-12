@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Share me your fav course✍️(◔◡◔)</h1>
+<h1 align="center">Share me your fav snackie✍️(◔◡◔)</h1>
 <h3 align="center">Interested in Frontend and apidly involving myself in the AI field and working to become an AI Engineer</h3>
 
 - ☺️  [Resume](https://drive.google.com/file/d/1jNw3ihf4NaVjAbdTiqa54-qSTlBcS-sp/view) (Last update: May 30th 2024) 
