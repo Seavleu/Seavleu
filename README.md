@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently working on NLP project call KBiz Generator  (Proposal In Progress)<br>Always ready to collaborates and collaborators<br>Learning about ASR<br>
+I'm an aspiring AI Engineer and Frontend Developer who enjoys learning through building. I had hands-on experience in machine learning, deep learning, and modern web development, I'm constantly learning and pushing myself to become a better problem-solver. Whether it's training models or creating smooth user interfaces, I’m focused on doing meaningful work and growing every step of the way.
+
+I'm growing step by step, always open to feedback, collaboration, and challenges that help me become better, not just as an engineer, but as someone who wants to make a positive impact through tech.
 
 
 ## 🌐 Socials:
